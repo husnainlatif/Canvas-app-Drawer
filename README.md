@@ -1,6 +1,6 @@
 # Drawing-Canvas-App
 
-This application has custom drawing widget. I have made the drawing widget with canvas.
+This application has custom drawing widget. We have made the drawing widget with canvas.
 
 The user can draw color, change brush size, change color, erase your drawing, clear screen, undo last action, redo last action, add background from the gallery and save your drawing in the gallery!!!
 
